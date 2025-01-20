@@ -1,5 +1,5 @@
 /* ----- TYPING EFFECT ----- */
-var typingEffect = new Typed(".typedText",{
+var typingEffect = new Typed(".top",{
     strings : ["Welcome","Learn More!!","Earn More!!",],
     loop : true,
     typeSpeed : 100, 
